@@ -14,7 +14,7 @@ DATA_DIR = BASE_DIR / "data"
 IMAGE_PATH = str(IMAGES_DIR / "traffic.jpg")
 IMAGE_OUTPUT_PATH = str(OUTPUT_DIR / "detected_image.jpg")
 VIDEO_PATH = str(VIDEOS_DIR / "traffic.mp4")
-OUTPUT_PATH = str(OUTPUT_DIR / "processed_video.mp4")
+VIDEO_PATH = str(VIDEOS_DIR / "actual_video.mp4")
 EVENTS_JSON_PATH = str(DATA_DIR / "events.json")
 
 # Model configuration

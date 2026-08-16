@@ -1,0 +1,342 @@
+{
+    "project": "CityEye",
+    "video": "input.mp4",
+    "summary": {
+        "raw_detections": {
+            "no_helmet": 784,
+            "triple_riding": 8,
+            "wrong_way": 1,
+            "accident": 12
+        },
+        "unique_events": {
+            "no_helmet": 6,
+            "triple_riding": 7,
+            "wrong_way": 1,
+            "accident": 12
+        }
+    },
+    "events": {
+        "no_helmet": [
+            {
+                "type": "NO_HELMET",
+                "start_frame": 39,
+                "end_frame": 50,
+                "detections": 3,
+                "confidence": 0.512
+            },
+            {
+                "type": "NO_HELMET",
+                "start_frame": 93,
+                "end_frame": 108,
+                "detections": 5,
+                "confidence": 0.426
+            },
+            {
+                "type": "NO_HELMET",
+                "start_frame": 147,
+                "end_frame": 352,
+                "detections": 185,
+                "confidence": 0.651
+            },
+            {
+                "type": "NO_HELMET",
+                "start_frame": 391,
+                "end_frame": 441,
+                "detections": 40,
+                "confidence": 0.56
+            },
+            {
+                "type": "NO_HELMET",
+                "start_frame": 477,
+                "end_frame": 588,
+                "detections": 110,
+                "confidence": 0.72
+            },
+            {
+                "type": "NO_HELMET",
+                "start_frame": 641,
+                "end_frame": 805,
+                "detections": 441,
+                "confidence": 0.586
+            }
+        ],
+        "triple_riding": [
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 8,
+                "timestamp": 0.32,
+                "vehicle": "motorcycle",
+                "track_id": 2,
+                "passenger_count": 3,
+                "passenger_ids": [
+                    1,
+                    3,
+                    6
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 67,
+                "timestamp": 2.68,
+                "vehicle": "motorcycle",
+                "track_id": 24,
+                "passenger_count": 3,
+                "passenger_ids": [
+                    44,
+                    21,
+                    6
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 524,
+                "timestamp": 20.96,
+                "vehicle": "motorcycle",
+                "track_id": 284,
+                "passenger_count": 4,
+                "passenger_ids": [
+                    92,
+                    262,
+                    275,
+                    271
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 535,
+                "timestamp": 21.4,
+                "vehicle": "motorcycle",
+                "track_id": 285,
+                "passenger_count": 3,
+                "passenger_ids": [
+                    275,
+                    262,
+                    271
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 585,
+                "timestamp": 23.4,
+                "vehicle": "motorcycle",
+                "track_id": 318,
+                "passenger_count": 3,
+                "passenger_ids": [
+                    275,
+                    271,
+                    285
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 666,
+                "timestamp": 26.64,
+                "vehicle": "motorcycle",
+                "track_id": 354,
+                "passenger_count": 5,
+                "passenger_ids": [
+                    138,
+                    99,
+                    351,
+                    352,
+                    355
+                ]
+            },
+            {
+                "type": "TRIPLE_RIDING",
+                "frame": 800,
+                "timestamp": 32.0,
+                "vehicle": "motorcycle",
+                "track_id": 357,
+                "passenger_count": 5,
+                "passenger_ids": [
+                    138,
+                    99,
+                    351,
+                    352,
+                    355
+                ]
+            }
+        ],
+        "wrong_way": [
+            {
+                "type": "WRONG_WAY",
+                "frame": 651,
+                "timestamp": 26.04,
+                "track_id": 99,
+                "vehicle": "car",
+                "direction": "LEFT"
+            }
+        ],
+        "accident": [
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 95,
+                "timestamp": 3.8,
+                "vehicle_1": {
+                    "type": "car",
+                    "track_id": 17
+                },
+                "vehicle_2": {
+                    "type": "truck",
+                    "track_id": 72
+                },
+                "distance": 0.24
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 115,
+                "timestamp": 4.6,
+                "vehicle_1": {
+                    "type": "car",
+                    "track_id": 82
+                },
+                "vehicle_2": {
+                    "type": "truck",
+                    "track_id": 34
+                },
+                "distance": 7.16
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 116,
+                "timestamp": 4.64,
+                "vehicle_1": {
+                    "type": "truck",
+                    "track_id": 17
+                },
+                "vehicle_2": {
+                    "type": "car",
+                    "track_id": 86
+                },
+                "distance": 0.85
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 196,
+                "timestamp": 7.84,
+                "vehicle_1": {
+                    "type": "motorcycle",
+                    "track_id": 123
+                },
+                "vehicle_2": {
+                    "type": "motorcycle",
+                    "track_id": 132
+                },
+                "distance": 15.45
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 222,
+                "timestamp": 8.88,
+                "vehicle_1": {
+                    "type": "car",
+                    "track_id": 140
+                },
+                "vehicle_2": {
+                    "type": "truck",
+                    "track_id": 99
+                },
+                "distance": 2.34
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 247,
+                "timestamp": 9.88,
+                "vehicle_1": {
+                    "type": "motorcycle",
+                    "track_id": 123
+                },
+                "vehicle_2": {
+                    "type": "motorcycle",
+                    "track_id": 144
+                },
+                "distance": 18.16
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 276,
+                "timestamp": 11.04,
+                "vehicle_1": {
+                    "type": "bus",
+                    "track_id": 93
+                },
+                "vehicle_2": {
+                    "type": "truck",
+                    "track_id": 160
+                },
+                "distance": 0.22
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 393,
+                "timestamp": 15.72,
+                "vehicle_1": {
+                    "type": "truck",
+                    "track_id": 93
+                },
+                "vehicle_2": {
+                    "type": "bus",
+                    "track_id": 213
+                },
+                "distance": 0.47
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 414,
+                "timestamp": 16.56,
+                "vehicle_1": {
+                    "type": "motorcycle",
+                    "track_id": 225
+                },
+                "vehicle_2": {
+                    "type": "motorcycle",
+                    "track_id": 229
+                },
+                "distance": 9.0
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 452,
+                "timestamp": 18.08,
+                "vehicle_1": {
+                    "type": "car",
+                    "track_id": 99
+                },
+                "vehicle_2": {
+                    "type": "truck",
+                    "track_id": 250
+                },
+                "distance": 0.59
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 485,
+                "timestamp": 19.4,
+                "vehicle_1": {
+                    "type": "motorcycle",
+                    "track_id": 225
+                },
+                "vehicle_2": {
+                    "type": "motorcycle",
+                    "track_id": 254
+                },
+                "distance": 9.27
+            },
+            {
+                "type": "POSSIBLE_ACCIDENT",
+                "frame": 548,
+                "timestamp": 21.92,
+                "vehicle_1": {
+                    "type": "motorcycle",
+                    "track_id": 225
+                },
+                "vehicle_2": {
+                    "type": "motorcycle",
+                    "track_id": 302
+                },
+                "distance": 11.61
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "video": "C:\\Users\\Shital\\OneDrive\\Desktop\\CityEye\\videos\\input.mp4",
+    "event": "WRONG_WAY",
+    "correct_direction": "RIGHT",
+    "detected": true,
+    "count": 1,
+    "events": [
+        {
+            "type": "WRONG_WAY",
+            "frame": 651,
+            "timestamp": 26.04,
+            "track_id": 99,
+            "vehicle": "car",
+            "direction": "LEFT"
+        }
+    ]
+}

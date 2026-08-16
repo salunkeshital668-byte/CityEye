@@ -1,5 +1,12 @@
 ﻿__pycache__/
 *.pyc
+.venv/
+venv/
+.env
+
+output/
+runs/
+
 *.mp4
-*.mkv
-*.pt
+*.avi
+

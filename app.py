@@ -290,8 +290,16 @@ def trigger_process():
 def get_processed_video():
     """Serves the processed video file for the frontend player."""
     if not os.path.exists(config.OUTPUT_PATH):
-        raise HTTPException(status_code=404, detail="Processed video not found. Run /process first.")
-    return FileResponse(config.OUTPUT_PATH, media_type="video/mp4")
+        raise HTTPException(
+            status_code=404,
+            detail="Processed video not found. Run /process first."
+        )
+
+    return FileResponse(
+        config.OUTPUT_PATH,
+        media_type="video/mp4",
+        filename="processed_video.mp4"
+    )
 
 
 @app.post("/create-sample-video")

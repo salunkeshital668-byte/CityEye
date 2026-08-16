@@ -1,0 +1,3928 @@
+{
+    "video": "C:\\Users\\Shital\\OneDrive\\Desktop\\CityEye\\videos\\input.mp4",
+    "event": "NO_HELMET",
+    "detected": true,
+    "count": 784,
+    "events": [
+        {
+            "type": "NO_HELMET",
+            "frame": 39,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 40,
+            "confidence": 0.512
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 50,
+            "confidence": 0.414
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 93,
+            "confidence": 0.378
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 95,
+            "confidence": 0.391
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 96,
+            "confidence": 0.39
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 107,
+            "confidence": 0.414
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 108,
+            "confidence": 0.426
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 147,
+            "confidence": 0.625
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 148,
+            "confidence": 0.614
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 149,
+            "confidence": 0.416
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 150,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 165,
+            "confidence": 0.513
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 166,
+            "confidence": 0.574
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 168,
+            "confidence": 0.379
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 169,
+            "confidence": 0.359
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 171,
+            "confidence": 0.385
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 172,
+            "confidence": 0.402
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 173,
+            "confidence": 0.368
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 174,
+            "confidence": 0.364
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 175,
+            "confidence": 0.535
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 176,
+            "confidence": 0.537
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 177,
+            "confidence": 0.647
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 178,
+            "confidence": 0.644
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 179,
+            "confidence": 0.482
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 180,
+            "confidence": 0.504
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 181,
+            "confidence": 0.364
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 182,
+            "confidence": 0.358
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 183,
+            "confidence": 0.541
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 184,
+            "confidence": 0.537
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 185,
+            "confidence": 0.493
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 186,
+            "confidence": 0.497
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 187,
+            "confidence": 0.53
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 188,
+            "confidence": 0.553
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 193,
+            "confidence": 0.353
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 195,
+            "confidence": 0.505
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 196,
+            "confidence": 0.506
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 197,
+            "confidence": 0.518
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 198,
+            "confidence": 0.518
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 199,
+            "confidence": 0.459
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 200,
+            "confidence": 0.536
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 201,
+            "confidence": 0.595
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 202,
+            "confidence": 0.609
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 203,
+            "confidence": 0.597
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 204,
+            "confidence": 0.631
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 205,
+            "confidence": 0.613
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 206,
+            "confidence": 0.614
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 207,
+            "confidence": 0.648
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 208,
+            "confidence": 0.645
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 209,
+            "confidence": 0.613
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 210,
+            "confidence": 0.598
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 211,
+            "confidence": 0.553
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 212,
+            "confidence": 0.556
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 213,
+            "confidence": 0.514
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 214,
+            "confidence": 0.507
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 215,
+            "confidence": 0.439
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 216,
+            "confidence": 0.423
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 217,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 218,
+            "confidence": 0.512
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 219,
+            "confidence": 0.556
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 220,
+            "confidence": 0.551
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 221,
+            "confidence": 0.575
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 222,
+            "confidence": 0.574
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 223,
+            "confidence": 0.608
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 224,
+            "confidence": 0.604
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 225,
+            "confidence": 0.597
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 226,
+            "confidence": 0.597
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 227,
+            "confidence": 0.596
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 228,
+            "confidence": 0.593
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 229,
+            "confidence": 0.563
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 230,
+            "confidence": 0.569
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 231,
+            "confidence": 0.54
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 232,
+            "confidence": 0.562
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 233,
+            "confidence": 0.574
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 234,
+            "confidence": 0.579
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 235,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 236,
+            "confidence": 0.576
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 237,
+            "confidence": 0.591
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 238,
+            "confidence": 0.587
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 239,
+            "confidence": 0.562
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 240,
+            "confidence": 0.552
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 241,
+            "confidence": 0.477
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 242,
+            "confidence": 0.473
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 243,
+            "confidence": 0.521
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 244,
+            "confidence": 0.52
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 245,
+            "confidence": 0.589
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 246,
+            "confidence": 0.598
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 247,
+            "confidence": 0.607
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 248,
+            "confidence": 0.623
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 249,
+            "confidence": 0.637
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 250,
+            "confidence": 0.636
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 251,
+            "confidence": 0.579
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 252,
+            "confidence": 0.579
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 253,
+            "confidence": 0.528
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 254,
+            "confidence": 0.522
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 255,
+            "confidence": 0.38
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 256,
+            "confidence": 0.462
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 257,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 258,
+            "confidence": 0.508
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 259,
+            "confidence": 0.509
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 260,
+            "confidence": 0.517
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 261,
+            "confidence": 0.513
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 262,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 263,
+            "confidence": 0.519
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 264,
+            "confidence": 0.522
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 265,
+            "confidence": 0.522
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 266,
+            "confidence": 0.51
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 267,
+            "confidence": 0.484
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 268,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 269,
+            "confidence": 0.479
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 270,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 271,
+            "confidence": 0.467
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 272,
+            "confidence": 0.476
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 273,
+            "confidence": 0.555
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 274,
+            "confidence": 0.553
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 275,
+            "confidence": 0.534
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 276,
+            "confidence": 0.538
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 277,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 278,
+            "confidence": 0.573
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 279,
+            "confidence": 0.569
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 280,
+            "confidence": 0.57
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 281,
+            "confidence": 0.587
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 282,
+            "confidence": 0.579
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 283,
+            "confidence": 0.61
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 284,
+            "confidence": 0.625
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 285,
+            "confidence": 0.608
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 286,
+            "confidence": 0.602
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 287,
+            "confidence": 0.626
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 288,
+            "confidence": 0.619
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 289,
+            "confidence": 0.588
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 290,
+            "confidence": 0.587
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 291,
+            "confidence": 0.575
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 292,
+            "confidence": 0.588
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 293,
+            "confidence": 0.572
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 294,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 295,
+            "confidence": 0.599
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 296,
+            "confidence": 0.613
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 297,
+            "confidence": 0.625
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 298,
+            "confidence": 0.636
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 299,
+            "confidence": 0.636
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 300,
+            "confidence": 0.641
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 301,
+            "confidence": 0.646
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 302,
+            "confidence": 0.646
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 303,
+            "confidence": 0.641
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 304,
+            "confidence": 0.641
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 305,
+            "confidence": 0.649
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 306,
+            "confidence": 0.651
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 307,
+            "confidence": 0.636
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 308,
+            "confidence": 0.635
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 309,
+            "confidence": 0.635
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 310,
+            "confidence": 0.635
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 311,
+            "confidence": 0.638
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 312,
+            "confidence": 0.633
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 313,
+            "confidence": 0.629
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 314,
+            "confidence": 0.623
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 315,
+            "confidence": 0.604
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 316,
+            "confidence": 0.597
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 317,
+            "confidence": 0.602
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 318,
+            "confidence": 0.609
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 319,
+            "confidence": 0.548
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 320,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 321,
+            "confidence": 0.531
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 322,
+            "confidence": 0.536
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 323,
+            "confidence": 0.545
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 324,
+            "confidence": 0.554
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 325,
+            "confidence": 0.549
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 326,
+            "confidence": 0.543
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 327,
+            "confidence": 0.516
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 328,
+            "confidence": 0.507
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 329,
+            "confidence": 0.497
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 330,
+            "confidence": 0.492
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 331,
+            "confidence": 0.464
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 332,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 333,
+            "confidence": 0.528
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 334,
+            "confidence": 0.524
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 335,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 336,
+            "confidence": 0.476
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 337,
+            "confidence": 0.502
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 338,
+            "confidence": 0.504
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 339,
+            "confidence": 0.48
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 340,
+            "confidence": 0.505
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 341,
+            "confidence": 0.525
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 342,
+            "confidence": 0.524
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 343,
+            "confidence": 0.522
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 344,
+            "confidence": 0.513
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 345,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 346,
+            "confidence": 0.475
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 347,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 348,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 349,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 350,
+            "confidence": 0.393
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 351,
+            "confidence": 0.373
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 352,
+            "confidence": 0.379
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 391,
+            "confidence": 0.365
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 392,
+            "confidence": 0.423
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 393,
+            "confidence": 0.531
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 394,
+            "confidence": 0.53
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 395,
+            "confidence": 0.539
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 396,
+            "confidence": 0.547
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 397,
+            "confidence": 0.559
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 398,
+            "confidence": 0.56
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 399,
+            "confidence": 0.515
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 400,
+            "confidence": 0.507
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 401,
+            "confidence": 0.426
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 402,
+            "confidence": 0.431
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 403,
+            "confidence": 0.419
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 404,
+            "confidence": 0.417
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 405,
+            "confidence": 0.414
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 406,
+            "confidence": 0.416
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 407,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 408,
+            "confidence": 0.446
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 409,
+            "confidence": 0.461
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 410,
+            "confidence": 0.464
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 411,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 412,
+            "confidence": 0.516
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 413,
+            "confidence": 0.497
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 414,
+            "confidence": 0.485
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 415,
+            "confidence": 0.497
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 416,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 417,
+            "confidence": 0.512
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 418,
+            "confidence": 0.514
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 419,
+            "confidence": 0.528
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 420,
+            "confidence": 0.52
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 421,
+            "confidence": 0.501
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 422,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 423,
+            "confidence": 0.461
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 424,
+            "confidence": 0.468
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 425,
+            "confidence": 0.457
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 426,
+            "confidence": 0.449
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 427,
+            "confidence": 0.382
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 428,
+            "confidence": 0.392
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 429,
+            "confidence": 0.362
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 441,
+            "confidence": 0.36
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 477,
+            "confidence": 0.56
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 478,
+            "confidence": 0.569
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 479,
+            "confidence": 0.467
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 480,
+            "confidence": 0.505
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 481,
+            "confidence": 0.6
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 482,
+            "confidence": 0.591
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 483,
+            "confidence": 0.574
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 484,
+            "confidence": 0.552
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 485,
+            "confidence": 0.526
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 486,
+            "confidence": 0.524
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 487,
+            "confidence": 0.433
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 488,
+            "confidence": 0.41
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 489,
+            "confidence": 0.426
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 490,
+            "confidence": 0.446
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 491,
+            "confidence": 0.417
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 492,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 493,
+            "confidence": 0.471
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 494,
+            "confidence": 0.485
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 495,
+            "confidence": 0.456
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 496,
+            "confidence": 0.446
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 497,
+            "confidence": 0.473
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 498,
+            "confidence": 0.468
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 499,
+            "confidence": 0.446
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 500,
+            "confidence": 0.447
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 501,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 502,
+            "confidence": 0.425
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 509,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 511,
+            "confidence": 0.366
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 512,
+            "confidence": 0.373
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 513,
+            "confidence": 0.425
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 513,
+            "confidence": 0.395
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 514,
+            "confidence": 0.427
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 514,
+            "confidence": 0.39
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 515,
+            "confidence": 0.427
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 516,
+            "confidence": 0.417
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 516,
+            "confidence": 0.362
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 517,
+            "confidence": 0.49
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 517,
+            "confidence": 0.457
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 517,
+            "confidence": 0.406
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 518,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 518,
+            "confidence": 0.445
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 518,
+            "confidence": 0.41
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 519,
+            "confidence": 0.552
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 519,
+            "confidence": 0.521
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 519,
+            "confidence": 0.443
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 520,
+            "confidence": 0.514
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 520,
+            "confidence": 0.484
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 520,
+            "confidence": 0.422
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 521,
+            "confidence": 0.616
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 521,
+            "confidence": 0.535
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 521,
+            "confidence": 0.496
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 522,
+            "confidence": 0.596
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 522,
+            "confidence": 0.527
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 522,
+            "confidence": 0.503
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 523,
+            "confidence": 0.536
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 523,
+            "confidence": 0.481
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 523,
+            "confidence": 0.371
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 524,
+            "confidence": 0.546
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 524,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 524,
+            "confidence": 0.38
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 525,
+            "confidence": 0.53
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 525,
+            "confidence": 0.48
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 525,
+            "confidence": 0.479
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 526,
+            "confidence": 0.518
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 526,
+            "confidence": 0.485
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 526,
+            "confidence": 0.466
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 528,
+            "confidence": 0.359
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 529,
+            "confidence": 0.45
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 529,
+            "confidence": 0.391
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 530,
+            "confidence": 0.489
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 530,
+            "confidence": 0.407
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 531,
+            "confidence": 0.695
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 532,
+            "confidence": 0.697
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 533,
+            "confidence": 0.701
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 533,
+            "confidence": 0.459
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 533,
+            "confidence": 0.424
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 534,
+            "confidence": 0.72
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 534,
+            "confidence": 0.468
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 534,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 535,
+            "confidence": 0.677
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 535,
+            "confidence": 0.459
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 536,
+            "confidence": 0.654
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 536,
+            "confidence": 0.463
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 537,
+            "confidence": 0.409
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 538,
+            "confidence": 0.415
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 539,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 540,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 540,
+            "confidence": 0.383
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 541,
+            "confidence": 0.57
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 541,
+            "confidence": 0.483
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 542,
+            "confidence": 0.534
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 542,
+            "confidence": 0.477
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 543,
+            "confidence": 0.603
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 543,
+            "confidence": 0.373
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 544,
+            "confidence": 0.591
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 544,
+            "confidence": 0.385
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 545,
+            "confidence": 0.516
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 545,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 546,
+            "confidence": 0.486
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 546,
+            "confidence": 0.468
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 547,
+            "confidence": 0.506
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 548,
+            "confidence": 0.502
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 575,
+            "confidence": 0.536
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 576,
+            "confidence": 0.566
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 581,
+            "confidence": 0.449
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 582,
+            "confidence": 0.373
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 583,
+            "confidence": 0.367
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 584,
+            "confidence": 0.366
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 587,
+            "confidence": 0.418
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 588,
+            "confidence": 0.408
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 641,
+            "confidence": 0.367
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 642,
+            "confidence": 0.354
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 657,
+            "confidence": 0.455
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 658,
+            "confidence": 0.486
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 658,
+            "confidence": 0.442
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 659,
+            "confidence": 0.486
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 659,
+            "confidence": 0.442
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 660,
+            "confidence": 0.472
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 660,
+            "confidence": 0.444
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 661,
+            "confidence": 0.472
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 661,
+            "confidence": 0.444
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 662,
+            "confidence": 0.467
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 662,
+            "confidence": 0.437
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 663,
+            "confidence": 0.48
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 663,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 664,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 664,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 664,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 665,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 665,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 665,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 666,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 666,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 666,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 667,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 667,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 667,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 668,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 668,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 668,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 669,
+            "confidence": 0.474
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 669,
+            "confidence": 0.394
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 669,
+            "confidence": 0.363
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 670,
+            "confidence": 0.51
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 670,
+            "confidence": 0.437
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 670,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 671,
+            "confidence": 0.51
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 671,
+            "confidence": 0.437
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 671,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 672,
+            "confidence": 0.51
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 672,
+            "confidence": 0.437
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 672,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 673,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 673,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 673,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 674,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 674,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 674,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 675,
+            "confidence": 0.511
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 675,
+            "confidence": 0.438
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 675,
+            "confidence": 0.399
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 676,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 676,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 676,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 677,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 677,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 677,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 678,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 678,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 678,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 679,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 679,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 679,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 680,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 680,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 680,
+            "confidence": 0.384
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 681,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 681,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 681,
+            "confidence": 0.385
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 682,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 682,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 682,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 683,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 683,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 683,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 684,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 684,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 684,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 685,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 685,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 685,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 686,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 686,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 686,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 687,
+            "confidence": 0.488
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 687,
+            "confidence": 0.458
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 687,
+            "confidence": 0.386
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 688,
+            "confidence": 0.489
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 688,
+            "confidence": 0.46
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 688,
+            "confidence": 0.389
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 689,
+            "confidence": 0.489
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 689,
+            "confidence": 0.46
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 689,
+            "confidence": 0.389
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 690,
+            "confidence": 0.489
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 690,
+            "confidence": 0.46
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 690,
+            "confidence": 0.389
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 691,
+            "confidence": 0.489
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 691,
+            "confidence": 0.46
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 691,
+            "confidence": 0.389
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 692,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 692,
+            "confidence": 0.461
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 692,
+            "confidence": 0.39
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 693,
+            "confidence": 0.487
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 693,
+            "confidence": 0.463
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 693,
+            "confidence": 0.392
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 694,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 694,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 694,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 695,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 695,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 695,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 696,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 696,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 696,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 697,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 697,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 697,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 698,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 698,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 698,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 699,
+            "confidence": 0.533
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 699,
+            "confidence": 0.494
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 699,
+            "confidence": 0.412
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 700,
+            "confidence": 0.559
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 700,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 700,
+            "confidence": 0.432
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 701,
+            "confidence": 0.555
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 701,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 701,
+            "confidence": 0.43
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 702,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 702,
+            "confidence": 0.499
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 702,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 703,
+            "confidence": 0.586
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 703,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 703,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 704,
+            "confidence": 0.586
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 704,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 704,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 705,
+            "confidence": 0.586
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 705,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 705,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 706,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 706,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 706,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 707,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 707,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 707,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 708,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 708,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 708,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 709,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 709,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 709,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 710,
+            "confidence": 0.583
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 710,
+            "confidence": 0.5
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 710,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 711,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 711,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 711,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 712,
+            "confidence": 0.581
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 712,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 712,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 713,
+            "confidence": 0.581
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 713,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 713,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 714,
+            "confidence": 0.582
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 714,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 714,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 715,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 715,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 715,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 716,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 716,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 716,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 717,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 717,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 717,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 718,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 718,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 718,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 719,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 719,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 719,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 720,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 720,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 720,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 721,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 721,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 721,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 722,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 722,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 722,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 723,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 723,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 723,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 724,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 724,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 724,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 725,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 725,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 725,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 726,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 726,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 726,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 727,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 727,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 727,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 728,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 728,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 728,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 729,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 729,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 729,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 730,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 730,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 730,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 731,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 731,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 731,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 732,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 732,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 732,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 733,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 733,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 733,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 734,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 734,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 734,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 735,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 735,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 735,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 736,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 736,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 736,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 737,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 737,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 737,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 738,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 738,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 738,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 739,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 739,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 739,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 740,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 740,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 740,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 741,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 741,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 741,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 742,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 742,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 742,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 743,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 743,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 743,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 744,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 744,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 744,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 745,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 745,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 745,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 746,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 746,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 746,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 747,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 747,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 747,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 748,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 748,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 748,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 749,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 749,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 749,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 750,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 750,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 750,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 751,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 751,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 751,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 752,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 752,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 752,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 753,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 753,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 753,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 754,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 754,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 754,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 755,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 755,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 755,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 756,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 756,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 756,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 757,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 757,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 757,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 758,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 758,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 758,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 759,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 759,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 759,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 760,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 760,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 760,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 761,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 761,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 761,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 762,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 762,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 762,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 763,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 763,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 763,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 764,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 764,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 764,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 765,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 765,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 765,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 766,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 766,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 766,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 767,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 767,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 767,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 768,
+            "confidence": 0.584
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 768,
+            "confidence": 0.498
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 768,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 769,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 769,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 769,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 770,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 770,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 770,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 771,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 771,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 771,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 772,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 772,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 772,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 773,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 773,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 773,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 774,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 774,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 774,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 775,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 775,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 775,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 776,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 776,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 776,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 777,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 777,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 777,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 778,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 778,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 778,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 779,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 779,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 779,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 780,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 780,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 780,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 781,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 781,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 781,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 782,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 782,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 782,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 783,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 783,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 783,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 784,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 784,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 784,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 785,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 785,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 785,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 786,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 786,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 786,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 787,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 787,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 787,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 788,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 788,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 788,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 789,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 789,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 789,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 790,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 790,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 790,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 791,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 791,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 791,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 792,
+            "confidence": 0.452
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 792,
+            "confidence": 0.448
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 792,
+            "confidence": 0.382
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 793,
+            "confidence": 0.45
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 793,
+            "confidence": 0.447
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 793,
+            "confidence": 0.381
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 794,
+            "confidence": 0.451
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 794,
+            "confidence": 0.449
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 794,
+            "confidence": 0.38
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 795,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 795,
+            "confidence": 0.471
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 795,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 796,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 796,
+            "confidence": 0.471
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 796,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 797,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 797,
+            "confidence": 0.471
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 797,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 798,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 798,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 798,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 799,
+            "confidence": 0.567
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 799,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 799,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 800,
+            "confidence": 0.567
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 800,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 800,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 801,
+            "confidence": 0.567
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 801,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 801,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 802,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 802,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 802,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 803,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 803,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 803,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 804,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 804,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 804,
+            "confidence": 0.465
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 805,
+            "confidence": 0.568
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 805,
+            "confidence": 0.47
+        },
+        {
+            "type": "NO_HELMET",
+            "frame": 805,
+            "confidence": 0.465
+        }
+    ]
+}

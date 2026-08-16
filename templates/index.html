@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CityEye — AI CCTV Event Detection</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="/static/style.css">
 </head>
+
 <body class="dark-theme">
   <!-- Scanline and glowing grid effect -->
   <div class="cyber-overlay"></div>
@@ -128,7 +132,8 @@
           Refresh Events
         </button>
 
-        <button class="btn btn-ghost" id="btnSampleGen" title="Generates synthetic CCTV test video if you don't have traffic.mp4">
+        <button class="btn btn-ghost" id="btnSampleGen"
+          title="Generates synthetic CCTV test video if you don't have traffic.mp4">
           <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
             <rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect>
             <line x1="7" y1="2" x2="7" y2="22"></line>
@@ -162,15 +167,16 @@
         </div>
 
         <div class="video-display-frame" id="videoFrameContainer">
-          <video id="processedVideoPlayer" controls preload="metadata" class="cctv-video-element">
-            <source src="/output-video" type="video/mp4">
+          <video id="processedVideoPlayer" class="cctv-video-element" controls preload="auto" playsinline muted>
+            <source id="processedVideoSource" src="/output-video" type="video/mp4">
             Your browser does not support the video tag.
           </video>
-          
+
           <div class="video-placeholder-overlay" id="videoPlaceholder">
             <div class="placeholder-icon">📹</div>
             <h3>No Output Video Loaded Yet</h3>
-            <p>Click <strong>"Run AI Video Analysis"</strong> to process <code>videos/traffic.mp4</code> or click <strong>"Generate Sample Video"</strong> for an instant demo.</p>
+            <p>Click <strong>"Run AI Video Analysis"</strong> to process <code>videos/traffic.mp4</code> or click
+              <strong>"Generate Sample Video"</strong> for an instant demo.</p>
           </div>
         </div>
 
@@ -232,4 +238,5 @@
 
   <script src="/static/script.js"></script>
 </body>
+
 </html>

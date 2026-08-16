@@ -1,0 +1,176 @@
+{
+    "video": "C:\\Users\\Shital\\OneDrive\\Desktop\\CityEye\\videos\\input.mp4",
+    "event": "ACCIDENT",
+    "detected": true,
+    "count": 12,
+    "events": [
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 95,
+            "timestamp": 3.8,
+            "vehicle_1": {
+                "type": "car",
+                "track_id": 17
+            },
+            "vehicle_2": {
+                "type": "truck",
+                "track_id": 72
+            },
+            "distance": 0.24
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 115,
+            "timestamp": 4.6,
+            "vehicle_1": {
+                "type": "car",
+                "track_id": 82
+            },
+            "vehicle_2": {
+                "type": "truck",
+                "track_id": 34
+            },
+            "distance": 7.16
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 116,
+            "timestamp": 4.64,
+            "vehicle_1": {
+                "type": "truck",
+                "track_id": 17
+            },
+            "vehicle_2": {
+                "type": "car",
+                "track_id": 86
+            },
+            "distance": 0.85
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 196,
+            "timestamp": 7.84,
+            "vehicle_1": {
+                "type": "motorcycle",
+                "track_id": 123
+            },
+            "vehicle_2": {
+                "type": "motorcycle",
+                "track_id": 132
+            },
+            "distance": 15.45
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 222,
+            "timestamp": 8.88,
+            "vehicle_1": {
+                "type": "car",
+                "track_id": 140
+            },
+            "vehicle_2": {
+                "type": "truck",
+                "track_id": 99
+            },
+            "distance": 2.34
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 247,
+            "timestamp": 9.88,
+            "vehicle_1": {
+                "type": "motorcycle",
+                "track_id": 123
+            },
+            "vehicle_2": {
+                "type": "motorcycle",
+                "track_id": 144
+            },
+            "distance": 18.16
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 276,
+            "timestamp": 11.04,
+            "vehicle_1": {
+                "type": "bus",
+                "track_id": 93
+            },
+            "vehicle_2": {
+                "type": "truck",
+                "track_id": 160
+            },
+            "distance": 0.22
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 393,
+            "timestamp": 15.72,
+            "vehicle_1": {
+                "type": "truck",
+                "track_id": 93
+            },
+            "vehicle_2": {
+                "type": "bus",
+                "track_id": 213
+            },
+            "distance": 0.47
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 414,
+            "timestamp": 16.56,
+            "vehicle_1": {
+                "type": "motorcycle",
+                "track_id": 225
+            },
+            "vehicle_2": {
+                "type": "motorcycle",
+                "track_id": 229
+            },
+            "distance": 9.0
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 452,
+            "timestamp": 18.08,
+            "vehicle_1": {
+                "type": "car",
+                "track_id": 99
+            },
+            "vehicle_2": {
+                "type": "truck",
+                "track_id": 250
+            },
+            "distance": 0.59
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 485,
+            "timestamp": 19.4,
+            "vehicle_1": {
+                "type": "motorcycle",
+                "track_id": 225
+            },
+            "vehicle_2": {
+                "type": "motorcycle",
+                "track_id": 254
+            },
+            "distance": 9.27
+        },
+        {
+            "type": "POSSIBLE_ACCIDENT",
+            "frame": 548,
+            "timestamp": 21.92,
+            "vehicle_1": {
+                "type": "motorcycle",
+                "track_id": 225
+            },
+            "vehicle_2": {
+                "type": "motorcycle",
+                "track_id": 302
+            },
+            "distance": 11.61
+        }
+    ]
+}
